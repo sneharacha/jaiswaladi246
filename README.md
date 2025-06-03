@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone 👋, This is Sneha </h1>
+<h1 align="center">Hi Guys.This is Sneha </h1>
 
 <div align="center">
   <img src="https://github.com/sneharacha/jaiswaladi246/blob/main/Screenshot 2025-04-12 103034.png" alt="DevOpsShack Banner">
