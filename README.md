@@ -1,7 +1,7 @@
 <h1 align="center">Hi Guys. </h1>
 
 <div align="center">
-  <img src="https://github.com/jaiswaladi/jaiswaladi246/blob/main/Screenshot 2025-04-12 103034.png" alt="DevOpsShack Banner">
+  <img src="https://github.com/sneharacha/sneharesume/blob/main/Screenshot%202025-04-12%20103034.png" alt="DevOpsShack Banner">
 </div>
 
 <h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
