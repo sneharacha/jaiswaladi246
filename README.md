@@ -1,10 +1,8 @@
-<h1 align="center">Hi Guys. This is Sneha </h1>
-
 <div align="center">
   <img src="https://github.com/sneharacha/sneharesume/blob/main/githubacc.png" alt="DevOpsShack Banner">
   </div>
-
-<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
+<h3 align="center">I am a passionate Cloud DevOps Engineer with expertise in AWS Cloud, Terraform, Docker and Kubernetes.
+  View my LinkedIn profile <a href="https://www.linkedin.com/in/sneharacha" target="_blank">here</a></h3>
 
 <p align="center">
   <a href="https://github.com/sneharacha">
@@ -25,8 +23,8 @@
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/sneharacha](https://github.com/sneharacha)  
-- 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me **office@devopsshack.com**
+- 💬 Expertise on **Cloud, DevOps and AI**  
+- 📫 How to reach me **sneharacha13@gmail.com**
 
 ---
 
